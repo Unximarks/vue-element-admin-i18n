@@ -2,56 +2,49 @@
   <div class="user-activity">
     <div class="post">
       <div class="user-block">
-        <img class="img-circle" :src="'https://wpimg.wallstcn.com/57ed425a-c71e-4201-9428-68760c0537c4.jpg'+avatarPrefix">
-        <span class="username text-muted">Iron Man</span>
-        <span class="description">Shared publicly - 7:30 PM today</span>
+        <!--<img class="img-circle" :src="'https://wpimg.wallstcn.com/57ed425a-c71e-4201-9428-68760c0537c4.jpg'+avatarPrefix">-->
+        <img class="img-circle" :src="'https://zhiweishudian.com/productImage/1609228884.jpg'">
+        <span class="username text-muted">不写bug</span>
+        <span class="description">2020-12-16 15:31:16</span>
       </div>
       <p>
-        Lorem ipsum represents a long-held tradition for designers,
-        typographers and the like. Some people hate it and argue for
-        its demise, but others ignore the hate as they create awesome
-        tools to help create filler text for everyone from bacon lovers
-        to Charlie Sheen fans.
+         标志的瓜子脸，淡淡的眉毛，眼睛很大却总是眯成一条缝，小小的鼻子上框着一副浅蓝色边框眼镜，一双伶俐的嘴巴是她心情的晴雨表，心情好的时候叽叽喳喳，心情坏的时候撇成一条弧。娇小的外形，小女生特有的撒娇，一副童心未泯的样子，让人心生怜爱。勤奋刻苦是她的品质，求学好问是她的习惯，与人为善是她的格言。她就像一束满天星，淡蓝色的花瓣散发着独特的芬芳，繁星点点惹来一片春色。
       </p>
       <ul class="list-inline">
         <li>
           <span class="link-black text-sm">
             <i class="el-icon-share" />
-            Share
+            分享
           </span>
         </li>
         <li>
           <span class="link-black text-sm">
             <svg-icon icon-class="like" />
-            Like
+            点赞
           </span>
         </li>
       </ul>
     </div>
     <div class="post">
       <div class="user-block">
-        <img class="img-circle" :src="'https://wpimg.wallstcn.com/9e2a5d0a-bd5b-457f-ac8e-86554616c87b.jpg'+avatarPrefix">
-        <span class="username text-muted">Captain American</span>
-        <span class="description">Sent you a message - yesterday</span>
+        <img class="img-circle" :src="'https://zhiweishudian.com/productImage/1609229347.jpg'">
+        <span class="username text-muted">小李子</span>
+        <span class="description">2020-12-15 15:20:00</span>
       </div>
       <p>
-        Lorem ipsum represents a long-held tradition for designers,
-        typographers and the like. Some people hate it and argue for
-        its demise, but others ignore the hate as they create awesome
-        tools to help create filler text for everyone from bacon lovers
-        to Charlie Sheen fans.
+       温柔可爱又漂亮，青春无敌美少女战士，嘻嘻
       </p>
       <ul class="list-inline">
         <li>
           <span class="link-black text-sm">
             <i class="el-icon-share" />
-            Share
+            分享
           </span>
         </li>
         <li>
           <span class="link-black text-sm">
             <svg-icon icon-class="like" />
-            Like
+           点赞
           </span>
         </li>
       </ul>
@@ -59,8 +52,8 @@
     <div class="post">
       <div class="user-block">
         <img class="img-circle" :src="'https://wpimg.wallstcn.com/fb57f689-e1ab-443c-af12-8d4066e202e2.jpg'+avatarPrefix">
-        <span class="username">Spider Man</span>
-        <span class="description">Posted 4 photos - 2 days ago</span>
+        <span class="username">路人甲</span>
+        <span class="description">2020-12-15 15:31:16</span>
       </div>
       <div class="user-images">
         <el-carousel :interval="6000" type="card" height="220px">
@@ -70,10 +63,10 @@
         </el-carousel>
       </div>
       <ul class="list-inline">
-        <li><span class="link-black text-sm"><i class="el-icon-share" /> Share</span></li>
+        <li><span class="link-black text-sm"><i class="el-icon-share" /> 分享</span></li>
         <li>
           <span class="link-black text-sm">
-            <svg-icon icon-class="like" /> Like</span>
+            <svg-icon icon-class="like" /> 点赞</span>
         </li>
       </ul>
     </div>

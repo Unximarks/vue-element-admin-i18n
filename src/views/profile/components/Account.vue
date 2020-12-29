@@ -19,8 +19,8 @@ export default {
       type: Object,
       default: () => {
         return {
-          name: '',
-          email: ''
+          name: '小勤',
+          email: 'You are of great account.'
         }
       }
     }
