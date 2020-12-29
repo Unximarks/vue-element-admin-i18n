@@ -10,15 +10,15 @@ const tokens = {
 
 const users = {
   'admin-token': {
-    roles: ['admin'],
-    introduction: 'I am a super administrator',
-    avatar: 'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-    name: 'Super Admin'
+    roles: ['美少女'],
+    introduction: '找不到Bug...',
+    avatar: 'https://zhiweishudian.com/productImage/821f61beecda08b0cc05a20117b748e7_1.jpg',
+    name: '小小勤 '
   },
   'editor-token': {
     roles: ['editor'],
     introduction: 'I am an editor',
-    avatar: 'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
+    avatar: 'https://zhiweishudian.com/productImage/821f61beecda08b0cc05a20117b748e7_1.jpg',
     name: 'Normal Editor'
   }
 }
